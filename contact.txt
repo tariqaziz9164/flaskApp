@@ -1,0 +1,16 @@
+Name: tariq
+Email: digitalonlinelogic@gmail.com
+Message: sd
+
+Name: asad
+Email: asdsd@dffd.com
+Message: ssss
+
+Name: ali khan
+Email: ali@gmail.com
+Message: I am Ali
+
+Name: janan
+Email: janan@gmail.com
+Message: I am Janan
+

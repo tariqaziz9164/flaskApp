@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Projects</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  </head>
+  <body>
+     <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+    <h1>My Projects</h1>
+    <p>Here are some of the projects I've worked on:</p>
+      <h2>Project 1 </h2>
+      <img src="{{ url_for('static', filename='images/img1.png') }}" alt="My Image">
+      <h2>Project 2 </h2>
+      <img src="{{ url_for('static', filename='images/img2.png') }}" alt="My Image">
+      <h2>Project 3 </h2>
+      <img src="{{ url_for('static', filename='images/img3.png') }}" alt="My Image">
+
+    
+  </body>
+</html>
